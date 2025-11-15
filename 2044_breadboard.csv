@@ -1,0 +1,12 @@
+Id;Designator;Footprint;Quantity;Designation;Supplier and ref
+1;C1,C3;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;2;0.1 uF;
+2;C6;CP_Radial_D5.0mm_P2.00mm;1;10 uF;
+3;D1;LED_D3.0mm;1;LED;
+4;U2;SOT-223-3_TabPin2;1;AZ1117CH2-3.3;
+5;C2,C4;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;2;22 uF;
+6;D2;D_SOD-523;1;1N4148WT;
+7;J5,J4;PinHeader_1x03_P2.54mm_Vertical;2;Conn_01x03;
+8;C5;CP_Radial_D4.0mm_P1.50mm;1;0.22 uF;
+9;R1;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;1;330;
+10;J1;USB_Micro_B_Female_10118194-0001LF;1;10118194-0001LF;
+11;J3,J2;PinHeader_2x02_P2.54mm_Vertical;2;Conn_02x02_Odd_Even;

@@ -1,0 +1,24 @@
+# KiCad backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Auto-generated
+*.autosave
+*~*
+
+# Simulation
+*.raw
+*.log
+
+# KiCad 6+ backups
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Export folders
+__pycache__/
+export/
+plot/
+gerbers/
+fabrication/

@@ -1,0 +1,12 @@
+Reference;Qty;Value;DNP;Exclude from BOM;Exclude from Board;Footprint;Datasheet;DigiKey;Description
+C1,C3;2;0.1 uF;;;;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;~;1276-6455-1-ND,1276-6780-1-ND;Unpolarized capacitor
+C2,C4;2;22 uF;;;;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;~;1276-6780-1-ND;Unpolarized capacitor
+C5;1;0.22 uF;;;;Capacitor_THT:CP_Radial_D4.0mm_P1.50mm;~;;Polarized capacitor
+C6;1;10 uF;;;;Capacitor_THT:CP_Radial_D5.0mm_P2.00mm;~;;Polarized capacitor
+D1;1;LED;;;;LED_THT:LED_D3.0mm;~;;Light emitting diode
+D2;1;1N4148WT;;;;Diode_SMD:D_SOD-523;https://www.diodes.com/assets/Datasheets/ds30396.pdf;;75V 0.15A Fast switching Diode, SOD-523
+J1;1;10118194-0001LF;;;;digikey-footprints:USB_Micro_B_Female_10118194-0001LF;http://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf;;CONN RCPT USB2.0 MICRO B SMD R/A
+J2,J3;2;Conn_02x02_Odd_Even;;;;Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical;~;;Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+J6,J7;2;Conn_01x02;;;;Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical;~;;Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+R1;1;330;;;;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;~;;Resistor
+U2;1;AZ1117CH2-3.3;;;;Package_TO_SOT_SMD:SOT-223-3_TabPin2;https://www.diodes.com/assets/Datasheets/AZ1117C.pdf;AZ1117CH-3.3TRG1DICT-ND;1A Fixed 3.3V LDO Linear Regulator, 15V Max Input, SOT-223

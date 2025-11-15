@@ -1,0 +1,19 @@
+### Footprint positions - created on 2025-11-15T23:32:46+0100 ###
+### Printed by KiCad version 9.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                           PosX       PosY       Rot  Side
+C1        0.1_uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   172.7000   -78.7625  -90.0000  top
+C2        22_uF            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   188.5000   -75.1000  -90.0000  top
+C3        0.1_uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   160.1000   -81.7625  -90.0000  top
+C4        22_uF            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   150.1000   -74.4000  -90.0000  top
+C5        0.22_uF          CP_Radial_D4.0mm_P1.50mm                      178.2500   -77.7500  -90.0000  top
+C6        10_uF            CP_Radial_D5.0mm_P2.00mm                      177.0000   -85.2000  -90.0000  top
+D1        LED              LED_D3.0mm                                    168.3000   -89.6400   90.0000  top
+D2        1N4148WT         D_SOD-523                                     148.4000   -78.7000  180.0000  top
+J1        10118194-0001LF  USB_Micro_B_Female_10118194-0001LF            145.1000   -80.0500  -90.0000  top
+J6        Conn_01x02       PinHeader_1x02_P1.00mm_Vertical               184.2770   -80.0260    0.0000  top
+J7        Conn_01x02       PinHeader_1x02_P1.00mm_Vertical               155.5750   -81.7625    0.0000  top
+R1        330              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   172.7000   -82.9000   90.0000  top
+U2        AZ1117CH2-3.3    SOT-223-3_TabPin2                             167.0000   -80.5000  180.0000  top
+## End
